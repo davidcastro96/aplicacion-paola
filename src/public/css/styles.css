@@ -10988,21 +10988,20 @@ section.resume-section .resume-section-content {
   }
 }
 /* Styles Whatsapp */
-.btn-whatsapp {
-  display:block;
-  width:70px;
-  height:70px;
-  color#fff;
+.btn-whatsapp { 
+  display: block;
+  width: 70px;
+  height: 70px;
   position: fixed;
-  right:20px;
-  bottom:20px;
-  border-radius:50%;
-  line-height:80px;
-  text-align:center;
-  z-index:999;
+  right: 20px;
+  bottom: 20px;
+  border-radius: 50%;
+  line-height: 65px;
+  text-align: center;
+  z-index: 999;
   transition: transform .2s;
-}
+ }
 .btn-whatsapp:hover{
-  opacity: 0.9;
   transform: scale(1.1);
-}
+ }
+ 
